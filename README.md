@@ -85,7 +85,7 @@ Implementação de um serviço de supermercado delivery ***(MQTT)*** para fins d
 1) Baixar o repositório:
 
     ```
-    git clone 
+    git clone https://github.com/manuluzlemos/microprojeto_05_sd.git
     ```
 
 2) Instalar as dependências:
