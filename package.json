@@ -1,0 +1,16 @@
+{
+  "name": "microprojeto_05_sd",
+  "version": "1.0.0",
+  "description": "Implementação de um serviço de supermercado delivery (MQTT)",
+  "main": "src/sub.js",
+  "author": "Emanuelle Lemos <manuluz.lemos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "pub": "node src/pub.js",
+    "sub": "node src/sub.js"
+  },
+  "dependencies": {
+    "mqtt": "^4.3.4",
+    "readline": "^1.3.0"
+  }
+}
