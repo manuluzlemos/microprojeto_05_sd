@@ -94,12 +94,6 @@ Implementação de um serviço de supermercado delivery ***(MQTT)*** para fins d
     yarn install 
     ```
 
-    ou
-
-    ```
-    npm install
-    ```
-
 3) Rodar o servidor
 
     ```
@@ -112,3 +106,6 @@ Implementação de um serviço de supermercado delivery ***(MQTT)*** para fins d
     yarn sub
     ```
 
+### Heroku
+
+Disponível em https://supermercado-delivery-05-sd.herokuapp.com/
